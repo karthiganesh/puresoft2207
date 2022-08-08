@@ -1,0 +1,159 @@
+Data Science example
+SVM using sklearn
+------------------------------------
+software solutions are developed in stages
+
+development
+testing
+staging
+production
+
+Production - Linux Server on AWS
+costly, billed based on usage
+What server will you give to developers?
+similar configuration, dependency
+
+git - file repository
+---------------------------------------
+Agile is a methodolgy for SDLC
+Sprint - 2 weeks
+scrum - daily basis
+
+backlog - pending item not completed on time
+retrospective
+-----------------------------------------
+jira - azure devops - sharepoint - excel
+
+Python Standards 
+- concept of writing Python programs using Pythonic approach
+Syntax, Indentation
+- python space indentation based code block
+- readability
+- easy to understand
+- python keywords
+Comments/Warnings
+- using # for comments 
+- necessity for meaningful comments throught the code
+Simple Programs with formulas 
+- roamresearch link https://roamresearch.com/#/app/kgLearning/page/rA4YpTczq
+Code Execution, VSCode 
+- how python programs are execute
+- VSCode primer
+Try...except 
+- exception handling to avoid breaking of execution of python programs
+- recommended way to handle execption
+OOPS Introduction 
+- writing a simple class with run method for any POP approach based program
+Simple if statement 
+- conditional branching
+- relational operatos
+- logical operators
+Nested if statement 
+- if inside another if 
+- work as AND condition
+elif statement 
+- ladder if
+- multiple conditions to handle a specific branching possibilities
+OOPS guidelines 
+- constructor def __init___(self)
+- use of self
+- attributes
+- methods
+Practice OOPS for all previous programs 
+New OOPS problems 
+If-for-OOPS combined problems 
+for loop using range 
+- definite number of iteration
+- using range()
+- using collection objects like list, tuple, set, dictionary
+while loop  
+- undefined number iteration
+- repeats based on condtion
+- use of c_repeat variable for control
+Example involving for and if 
+Example involving while, if, try... 
+Python language reference 
+- python standard library https://docs.python.org/3/library/
+Python function reference 
+- list of various python built-in functions
+- string functions
+- date functions
+- math functions
+User Defined function 
+- how to write custom user defined functions
+- code reuse
+- modular programming
+UDF parameters 
+- passing arguments
+- default arguments
+- returning values
+Python list 
+- list as an array
+- storing multiple data
+- passing as arguments to functions
+- returning values from function
+Python tuple 
+- immutable collection of data
+- performance
+Python set 
+- unique set items
+- set operations union, intersect, minud, difference
+Python dictionary 
+- common data type with key-value pair
+- json/xml conversion
+- passing as arguments to function
+- returning as values from function
+Handling CSV files for list of dictionary 
+OOPS Inheritance
+- creating derived classes from base class
+- leveraging attributes and methods from base class
+- enhancing the base class
+List/Dictionary with CSV
+OOPS Inheritance, Polymorphism 
+- using same method for different operations in derived classes
+- powerful concept to build real life solution
+Lamda functions 
+- dynamic function
+- single expression
+- high performance
+- used for map/apply functions
+List comprehension 
+- unique feature of python language
+- generate another list
+Regular expressions 
+- search for pattern in string
+- complicated search patterns
+- powerful and efficient way for text processing
+Database concepts 
+Various databases 
+Installation of Postgres/MySQL 
+-skipped, we used online postgres ElephantSQL
+pandas dataframe 
+- database operations using respective python packages
+- pyodbc - SQL Server
+- cx-Oracle - Oracle
+- psycopg2 - Postgres
+- mysql - MySQL
+Database concepts 
+Postgres or mysql demonstration 
+Python functions reference 
+- revisited various functions
+Implementing Production system 
+- development server
+- testing server
+- staging server
+- production server
+Introduction to git 
+- file repositor for version control and file sharing
+- github https://github.com/karthiganesh/puresoft2207
+Introduction to DevOps 
+- development operations
+- code, build, test, deploy
+- git, maven, jenkins
+Introduction to Agile  
+- project management
+- sprint
+- scrum
+- backlog
+- retrospective
+- jira, sharepoint, azure devops 
