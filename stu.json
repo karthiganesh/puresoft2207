@@ -1,0 +1,19 @@
+{
+"stu": [{
+    "name":"aaaa",
+    "regno":1111
+},
+{
+    "name":"bbbb",
+    "regno":2222
+},
+{
+    "name":"ccccc",
+    "regno":3333
+},
+{
+    "name":"ddddddd",
+    "regno":4444
+}
+]
+}

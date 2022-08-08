@@ -1,0 +1,29 @@
+{
+    "loan_applications":[
+        {
+            "Borrower":"aaaa",
+            "Principal":10000,
+            "Year":1
+        },
+        {
+            "Borrower":"bbbbb",
+            "Principal":22222,
+            "Year":2
+        },
+        {
+            "Borrower":"ccccc",
+            "Principal":30000,
+            "Year":1
+        },
+        {
+            "Borrower":"dddd",
+            "Principal":40000,
+            "Year":1
+        },
+        {
+            "Borrower":"ccccc",
+            "Principal":30000,
+            "Year":1
+        }
+    ]
+}
